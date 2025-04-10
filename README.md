@@ -1,6 +1,6 @@
 # Custom Memory Allocator
 
-A lightweight memory management system implementing core allocation functionality similar to `malloc` and `free`, built to demonstrate low-level memory management concepts.
+A memory management system implementing core allocation functionality similar to `malloc` and `free`, built to demonstrate low-level memory management concepts.
 
 ## Project Overview
 This custom allocator provides:
